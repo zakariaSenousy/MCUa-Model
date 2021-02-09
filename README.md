@@ -8,4 +8,4 @@ stained breast histology images. First, we resize input images into two differen
 networks to extract multi-level contextual information from different pattern levels. Finally, a novel uncertainty-aware model ensembling stage is developed to dynamically select
 the most certain context-aware models for the final prediction.
 
-![MCUA MODEL](https://user-images.githubusercontent.com/20457990/101354531-396e3480-388d-11eb-9c12-b94584f2a3e6.PNG)
+![MCUA_model](https://user-images.githubusercontent.com/20457990/101354531-396e3480-388d-11eb-9c12-b94584f2a3e6.PNG)
