@@ -16,6 +16,7 @@ If you use this code for your research, please cite our paper: [MCUa: Multi-leve
 
 
 
+```
 @ARTICLE{MCUA,
   author={Senousy, Zakaria and Abdelsamea, Mohammed and Gaber, Mohamed Medhat and Abdar, Moloud and Acharya, Rajendra U and Khosravi, Abbas and Nahavandi, Saeid},
   journal={IEEE Transactions on Biomedical Engineering}, 
@@ -25,9 +26,4 @@ If you use this code for your research, please cite our paper: [MCUa: Multi-leve
   number={},
   pages={1-1},
   doi={10.1109/TBME.2021.3107446}}
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
 ```
