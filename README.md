@@ -26,4 +26,8 @@ If you use this code for your research, please cite our paper: [MCUa: Multi-leve
   pages={1-1},
   doi={10.1109/TBME.2021.3107446}}
 
+```
 $ cd ../lorem
+$ npm install
+$ npm start
+```
