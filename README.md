@@ -12,4 +12,4 @@ the most certain context-aware models for the final prediction.
 
 
 ## Citation
-If you use this code for your research, please cite our paper:[MCUa: Multi-level Context and Uncertainty aware Dynamic Deep Ensemble for Breast Cancer Histology Image Classification](https://ieeexplore.ieee.org/document/9525263?denied=)
+If you use this code for your research, please cite our paper: [MCUa: Multi-level Context and Uncertainty aware Dynamic Deep Ensemble for Breast Cancer Histology Image Classification](https://ieeexplore.ieee.org/document/9525263?denied=)
